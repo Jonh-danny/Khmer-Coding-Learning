@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Coding Learning",
+  "description": "A modern, professional-looking coding education platform designed to help Khmer students learn to code with an in-browser editor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
